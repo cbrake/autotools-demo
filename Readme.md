@@ -1,0 +1,1 @@
+Simple autotools demo project
